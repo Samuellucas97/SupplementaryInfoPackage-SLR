@@ -5,14 +5,14 @@ This is the supplementary material for the SLR on â€œJunior Software Engineersâ€
 
 
 * SLR Protocol 
-* SLR_DataExtractionForm.pdf
-* SLR_Data.xlsx
+* SLR Data Extraction Form 
+* SLR Data
 
 
 ### SLR Protocol
 
 
-The SLR_Protocol.pdf file presents the research methodology applied during the study. It includes:
+The `SLR_Protocol.pdf` file presents the research methodology applied during the study. It includes:
 * Object
 * Background
 * PICOC
@@ -24,7 +24,7 @@ The SLR_Protocol.pdf file presents the research methodology applied during the s
 ### SLR Data Extraction Form
 
 
-The SLR_DataExtractionForm.pdf file presents the Google forms used for data extraction, containing 36 questions. 
+The `SLR_DataExtractionForm.pdf` file presents the Google forms used for data extraction, containing 36 questions. 
 
 
 
@@ -32,25 +32,27 @@ The SLR_DataExtractionForm.pdf file presents the Google forms used for data extr
 ### SLR Data 
 
 
-The SLR_Data.xlsx file contains all data separated in the following sheets:
+The `SLR_Data.xlsx` file contains all data separated in the following sheets:
+
+* **Included Paper List** sheet: List of all papers and relatedbasic info. 
 
 
-* Form Responses sheet: All the data extracted from primary study using google forms 
+* **Form Responses** sheet: All the data extracted from primary study using google forms. 
 
 
-* Publication Trends sheet -- analysis of publication trends (e.g., publication venues, domains) in the selected studies. 
+* **Publication Trends** sheet -- analysis of publication trends (e.g., publication venues, domains) in the selected studies. 
 
 
-* Motivations and Methodological Approaches (RQ1) sheet -- has the analysis of data relevant to RQ1 (e.g., study motivations, research methods ) for all the included studies. 
+* **Motivations and Methodological Approaches (RQ1)** sheet -- has the analysis of data relevant to RQ1 (e.g., study motivations, research methods ) for all the included studies. 
 
 
-* Key Software Development Tasks (RQ2) sheet -- has the analysis of data related to RQ2 (e.g., LLM tools) for all the included studies. 
+* **Key Software Development Tasks (RQ2)** sheet -- has the analysis of data related to RQ2 (e.g., LLM tools) for all the included studies. 
 
 
-* Perceptions about LLM4SE (RQ3) sheet -- has analysis of data relevant to RQ3 (e.g., perceived benefits, challenges) for all the included studies.
+* **Perceptions about LLM4SE (RQ3)** sheet -- has analysis of data relevant to RQ3 (e.g., perceived benefits, challenges) for all the included studies.
 
 
-* Limitations and Future Research Needs (RQ4) sheet -- has the analysis of data related to RQ4 (e.g., study limitations)  for all the included studies. 
+* **Limitations and Future Research Needs (RQ4)** sheet -- has the analysis of data related to RQ4 (e.g., study limitations)  for all the included studies. 
 
 
 
