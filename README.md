@@ -34,28 +34,25 @@ The `SLR_DataExtractionForm.pdf` file presents the Google forms used for data ex
 
 The `SLR_Data.xlsx` file contains all data separated in the following sheets:
 
-* **Included Paper List** sheet: List of all papers and relatedbasic info. 
+* **Included Paper List** sheet: List of all 56 papers and related demographic info. 
 
 
-* **Form Responses** sheet: All the data extracted from primary study using google forms. 
+* **Form Responses** sheet: All the data extracted from the 56 primary studies using google forms. 
 
 
-* **Publication Trends** sheet -- analysis of publication trends (e.g., publication venues, domains) in the selected studies. 
+* **Publication Trends** sheet -- analysis of publication trends (e.g., publication venues, domains) in the 56 selected studies. 
 
 
-* **(RQ1) Motivations and Methodological Approaches** sheet -- has the analysis of data relevant to RQ1 (e.g., study motivations, research methods ) for all the included studies. 
+* **(RQ1) Motivations and Methodological Approaches** sheet -- has the analysis of data relevant to `RQ1. What are the motivations and methodological approaches behind each primary study to explore the human aspects (e.g., emotion, productivity) of junior software developers adopting LLM-based tools for software development tasks?` and `RQ1a. How are junior software developers classified?` for all the included studies. 
 
 
-* **(RQ2) Key Software Development Tasks** sheet -- has the analysis of data related to RQ2 (e.g., LLM tools) for all the included studies. 
+* **(RQ2) Key Software Development Tasks** sheet -- has the analysis of data related to `RQ2. What key software development tasks junior developers are using LLM-based tools for?` for all the included studies. 
 
 
-* **(RQ3) Perceptions about LLM4SE** sheet -- has analysis of data relevant to RQ3 (e.g., perceived benefits, challenges) for all the included studies.
+* **(RQ3) Perceptions about LLM4SE** sheet -- has analysis of data relevant to `RQ3. What are the perceptions of junior software developers on using LLM-based tools?` and `RQ3a. What are the perceived and experienced advantages/opportunities of junior software developers on using LLM-based tools?`, `RQ3b. What are the perceived and experienced challenges/limitations faced by junior software developers while using LLM-based tools?`, and `RQ3c. What are the recommendations/best practices suggested by junior software developers while using LLM-based tools?` for all the included studies.
 
 
-* **(RQ4) Limitations and Future Research Needs** sheet -- has the analysis of data related to RQ4 (e.g., study limitations)  for all the included studies. 
-
-
-
+* **(RQ4) Limitations and Future Research Needs** sheet -- has the analysis of data related to `RQ4. What are the limitations and recommendations for future research that we can distil based on the primary studies?` for all the included studies. 
 
 
 
