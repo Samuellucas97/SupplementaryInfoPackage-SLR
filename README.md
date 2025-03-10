@@ -43,16 +43,16 @@ The `SLR_Data.xlsx` file contains all data separated in the following sheets:
 * **Publication Trends** sheet -- analysis of publication trends (e.g., publication venues, domains) in the selected studies. 
 
 
-* **Motivations and Methodological Approaches (RQ1)** sheet -- has the analysis of data relevant to RQ1 (e.g., study motivations, research methods ) for all the included studies. 
+* **(RQ1) Motivations and Methodological Approaches** sheet -- has the analysis of data relevant to RQ1 (e.g., study motivations, research methods ) for all the included studies. 
 
 
-* **Key Software Development Tasks (RQ2)** sheet -- has the analysis of data related to RQ2 (e.g., LLM tools) for all the included studies. 
+* **(RQ2) Key Software Development Tasks** sheet -- has the analysis of data related to RQ2 (e.g., LLM tools) for all the included studies. 
 
 
-* **Perceptions about LLM4SE (RQ3)** sheet -- has analysis of data relevant to RQ3 (e.g., perceived benefits, challenges) for all the included studies.
+* **(RQ3) Perceptions about LLM4SE** sheet -- has analysis of data relevant to RQ3 (e.g., perceived benefits, challenges) for all the included studies.
 
 
-* **Limitations and Future Research Needs (RQ4)** sheet -- has the analysis of data related to RQ4 (e.g., study limitations)  for all the included studies. 
+* **(RQ4) Limitations and Future Research Needs** sheet -- has the analysis of data related to RQ4 (e.g., study limitations)  for all the included studies. 
 
 
 
