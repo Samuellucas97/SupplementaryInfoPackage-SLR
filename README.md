@@ -58,16 +58,16 @@ The `SLR_Data.xlsx` file contains all data separated in the following sheets:
 
 ## Papers
 
-- Mbizo, T., Oosterwyk, G., Tsibolane, P., & Kautondokwa, P. (2024, July). Cautious optimism: The influence of generative AI tools in software development projects. In Annual conference of south african institute of computer scientists and information technologists (pp. 361-373). Cham: Springer Nature Switzerland.
-- Qian, C., & Wexler, J. (2024, March). Take it, leave it, or fix it: Measuring productivity and trust in human-ai collaboration. In Proceedings of the 29th International Conference on Intelligent User Interfaces (pp. 370-384).
-- Amoozadeh, M., Daniels, D., Nam, D., Kumar, A., Chen, S., Hilton, M., ... & Alipour, M. A. (2024, March). Trust in Generative AI among Students: An exploratory study. In Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 1 (pp. 67-73).
-- Kazemitabaar, M., Chow, J., Ma, C. K. T., Ericson, B. J., Weintrop, D., & Grossman, T. (2023, April). Studying the effect of AI code generators on supporting novice learners in introductory programming. In Proceedings of the 2023 CHI conference on human factors in computing systems (pp. 1-23).
-- Styve, A., Virkki, O. T., & Naeem, U. (2024, May). Developing critical thinking practices interwoven with generative AI usage in an introductory programming course. In 2024 IEEE Global Engineering Education Conference (EDUCON) (pp. 01-08). IEEE.
-- Alkhayat, A., Ciranni, B., Tumuluri, R. S., & Tulasi, R. S. (2024, June). Leveraging Large Language Models for Enhanced VR Development: Insights and Challenges. In 2024 IEEE Gaming, Entertainment, and Media Conference (GEM) (pp. 1-6). IEEE.
-- Prather, J., Reeves, B. N., Denny, P., Becker, B. A., Leinonen, J., Luxton-Reilly, A., ... & Santos, E. A. (2023). “It’s weird that it knows what i want”: Usability and interactions with copilot for novice programmers. ACM transactions on computer-human interaction, 31(1), 1-31.
-- Russo, D. (2024). Navigating the complexity of generative ai adoption in software engineering. ACM Transactions on Software Engineering and Methodology, 33(5), 1-50.
-- Barke, S., James, M. B., & Polikarpova, N. (2023). Grounded copilot: How programmers interact with code-generating models. Proceedings of the ACM on Programming Languages, 7(OOPSLA1), 85-111.
-- Chen, J., Lu, X., Du, Y., Rejtig, M., Bagley, R., Horn, M., & Wilensky, U. (2024, May). Learning agent-based modeling with llm companions: Experiences of novices and experts using chatgpt & netlogo chat. In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (pp. 1-18).
+1. Mbizo, T., Oosterwyk, G., Tsibolane, P., & Kautondokwa, P. (2024, July). Cautious optimism: The influence of generative AI tools in software development projects. In Annual conference of south african institute of computer scientists and information technologists (pp. 361-373). Cham: Springer Nature Switzerland.
+2. Qian, C., & Wexler, J. (2024, March). Take it, leave it, or fix it: Measuring productivity and trust in human-ai collaboration. In Proceedings of the 29th International Conference on Intelligent User Interfaces (pp. 370-384).
+3. Amoozadeh, M., Daniels, D., Nam, D., Kumar, A., Chen, S., Hilton, M., ... & Alipour, M. A. (2024, March). Trust in Generative AI among Students: An exploratory study. In Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 1 (pp. 67-73).
+4. Kazemitabaar, M., Chow, J., Ma, C. K. T., Ericson, B. J., Weintrop, D., & Grossman, T. (2023, April). Studying the effect of AI code generators on supporting novice learners in introductory programming. In Proceedings of the 2023 CHI conference on human factors in computing systems (pp. 1-23).
+5. Styve, A., Virkki, O. T., & Naeem, U. (2024, May). Developing critical thinking practices interwoven with generative AI usage in an introductory programming course. In 2024 IEEE Global Engineering Education Conference (EDUCON) (pp. 01-08). IEEE.
+6. Alkhayat, A., Ciranni, B., Tumuluri, R. S., & Tulasi, R. S. (2024, June). Leveraging Large Language Models for Enhanced VR Development: Insights and Challenges. In 2024 IEEE Gaming, Entertainment, and Media Conference (GEM) (pp. 1-6). IEEE.
+7. Prather, J., Reeves, B. N., Denny, P., Becker, B. A., Leinonen, J., Luxton-Reilly, A., ... & Santos, E. A. (2023). “It’s weird that it knows what i want”: Usability and interactions with copilot for novice programmers. ACM transactions on computer-human interaction, 31(1), 1-31.
+8. Russo, D. (2024). Navigating the complexity of generative ai adoption in software engineering. ACM Transactions on Software Engineering and Methodology, 33(5), 1-50.
+9. Barke, S., James, M. B., & Polikarpova, N. (2023). Grounded copilot: How programmers interact with code-generating models. Proceedings of the ACM on Programming Languages, 7(OOPSLA1), 85-111.
+10. Chen, J., Lu, X., Du, Y., Rejtig, M., Bagley, R., Horn, M., & Wilensky, U. (2024, May). Learning agent-based modeling with llm companions: Experiences of novices and experts using chatgpt & netlogo chat. In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (pp. 1-18).
 
 
 
