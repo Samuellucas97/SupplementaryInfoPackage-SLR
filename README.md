@@ -6,8 +6,8 @@ This is the supplementary material for the SLR on â€œNovice Software Engineersâ€
 ### Content
 
 * [SLR Protocol](#slr-protocol) 
-* SLR Data Extraction Form 
-* SLR Data
+* [SLR Data Extraction Form](#slr-data-extraction-form) 
+* [SLR Data](#slr-data)
 * [Primary Studies](#papers)
 
 
