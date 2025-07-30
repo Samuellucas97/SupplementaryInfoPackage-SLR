@@ -140,3 +140,14 @@ The `SLR_Data.xlsx` file contains all data separated in the following sheets:
 78. Lyu, W., Wang, Y., Sun, Y., & Zhang, Y. (2025, July). Will Your Next Pair Programming Partner Be Human? An Empirical Evaluation of Generative AI as a Collaborative Teammate in a Semester-Long Classroom Setting. In Proceedings of the Twelfth ACM Conference on Learning@ Scale (pp. 83-94).
 79. Simaremare, M., Pardede, C., Tampubolon, I., Manurung, P., & Simangunsong, D. (2024, December). Pair Programming in Programming Courses in the Era of Generative AI: Students' Perspective. In 2024 31st Asia-Pacific Software Engineering Conference (APSEC) (pp. 507-511). IEEE.
 80. Alami, A., & Ernst, N. (2025, April). Human and Machine: How Software Engineers Perceive and Engage with AI-Assisted Code Reviews Compared to Their Peers. In 2025 IEEE/ACM 18th International Conference on Cooperative and Human Aspects of Software Engineering (CHASE) (pp. 63-74). IEEE.
+
+## Cites
+
+If you find this repository useful, please cite our survey paper:
+
+@article{ferino2025junior,
+  title={Novice Software Developers' Perspectives on Adopting LLMs for Software Engineering: a Systematic Literature Review},
+  author={Ferino, Samuel and Hoda, Rashina and Grundy, John and Treude, Christoph},
+  journal={arXiv preprint arXiv:2503.07556},
+  year={2025}
+}
