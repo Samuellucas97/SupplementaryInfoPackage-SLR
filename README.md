@@ -36,13 +36,13 @@ The `SLR_DataExtractionForm.pdf` file presents the Google Forms used for data ex
 
 The `SLR_Data.xlsx` file contains all data separated in the following sheets:
 
-* **Included Paper List** sheet: List of all 56 papers and related demographic info. 
+* **Included Paper List** sheet: List of all 80 papers and related demographic info. 
 
 
-* **Form Responses** sheet: All the data extracted from the 56 primary studies using Google Forms. 
+* **Form Responses** sheet: All the data extracted from the 80 primary studies using Google Forms. 
 
 
-* **Publication Trends** sheet -- analysis of publication trends (e.g., publication venues, domains) in the 56 selected studies. 
+* **Publication Trends** sheet -- analysis of publication trends (e.g., publication venues, domains) in the 80 selected studies. 
 
 
 * **(RQ1) Motivations and Methodological Approaches** sheet -- has the analysis of data relevant to `RQ1. What are the motivations and methodological approaches behind each primary study to explore the human aspects (e.g., emotion, productivity) of novice software developers adopting LLM-based tools for software development tasks?` and `RQ1a. How are novice software developers classified?` for all the included studies. 
