@@ -146,7 +146,7 @@ The `SLR_Data.xlsx` file contains all data separated in the following sheets:
 If you find this repository useful, please cite our survey paper:
 ```
 @article{ferino:2025,
-  title={Novice Software Developers' Perspectives on Adopting LLMs for Software Engineering: a Systematic Literature Review},
+  title={Novice Developers' Perspectives on Adopting LLMs for Software Development: a Systematic Literature Review},
   author={Ferino, Samuel and Hoda, Rashina and Grundy, John and Treude, Christoph},
   journal={arXiv preprint arXiv:2503.07556},
   year={2025}
