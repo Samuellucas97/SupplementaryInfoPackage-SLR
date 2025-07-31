@@ -1,7 +1,7 @@
 ﻿## SLR Research Artifacts
 
 
-This is the supplementary material for the Systematic Literature Review (SLR) on **Novice Software Engineers’ Perspectives on Adopting Large Language Models for Development**. 
+This is the supplementary material for the Systematic Literature Review (SLR) on **Novice Developers’ Perspectives on Adopting Large Language Models for Software Development**. 
 
 This SLR employed the guidelines proposed by Kitchenham et al in `Kitchenham, B., & Charters, S. (2007). Guidelines for performing systematic literature reviews in software engineering`.
 
