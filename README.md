@@ -145,10 +145,11 @@ The `SLR_Data.xlsx` file contains all data separated in the following sheets:
 
 If you find this repository useful, please cite our survey paper:
 ```
-@article{ferino:2025,
-  title={Novice Developers' Perspectives on Adopting LLMs for Software Development: a Systematic Literature Review},
+@article{ferino:2026,
+  title={Novice developers’ perspectives on adopting llms for software development: A systematic literature review},
   author={Ferino, Samuel and Hoda, Rashina and Grundy, John and Treude, Christoph},
-  journal={arXiv preprint arXiv:2503.07556},
-  year={2025}
+  journal={ACM Transactions on Software Engineering and Methodology},
+  year={2026},
+  publisher={ACM New York, NY}
 }
 ```
